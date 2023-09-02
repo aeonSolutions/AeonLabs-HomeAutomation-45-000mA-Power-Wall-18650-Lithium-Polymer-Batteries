@@ -15,11 +15,15 @@
 
 ## The problem 
 
+Now that a universal cable connector is a reality, the USB-C, the next big change is on how to remove all those power converters and inverters at home, vis-a-vis, " power bricks". These can waste up to 30% of electricity "converted". And in my professional opinion, the best and only way to do it is by adding a small mechanical switch, however, mechanical relays consume too much power (around 200mW).
+
 <br>
 
 ## The ideia
 
-Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day i picked up on the street this blue ray device. And, as i always do, the first thing i did was to disassemble it to its individual parts and components. It has capacity for 45,000mA @ 4.2V DC, More than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. During winter days , rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet ! 
+Here in Belgium, is often found all kinds of home appliances when walking on the sidewalk. And anyone is free to take them. Gratis. The other day i picked up on the street this blue ray device. And, as i always do, the first thing i did was to disassemble it to its individual parts and components. It has capacity for 45,000mA @ 4.2V DC, more than enough for powering of the grid all 5-9V DC  devices and appliances at any family home. 
+
+During winter days , rainy days, this power 🔋 wall will charge itself from the main 220V AC but only during the night when electricity is much cheaper. The estimated savings on the electricity bill at the end of the month are expected to be between 10eur to 20eur. Payback time is only 10 months. The minimum efficiency of this power wall is 95%  With an LCD display for some cool consumption statistics and three buttons for ......I don't know yet ! 
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-45-000mA-Power-Wall-18650-Lithium-Polymer-Batteries/blob/main/media/WhatsApp%20Image%202023-09-02%20at%2014.37.48.jpg" height="200">
